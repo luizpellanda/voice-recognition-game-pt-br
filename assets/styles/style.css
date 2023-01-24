@@ -23,6 +23,11 @@ h1 {
     font-size: 5em;
 }
 
+h2 {
+    font-size: 4em;
+    font-weight: bold;
+}
+
 h3 {
     font-size: 2em;
     margin-top: 1.5rem;
@@ -39,4 +44,8 @@ h3 {
     font-size: 4em;
     padding: .8rem;
     margin: 1.2rem;
+}
+
+.secret-number {
+    font-weight: bold;
 }
