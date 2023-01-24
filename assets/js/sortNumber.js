@@ -1,5 +1,5 @@
-const menorValor = 700;
-const maiorValor = 741;
+const menorValor = 1;
+const maiorValor = 1000;
 
 const numeroSecreto = numeroAleatorio();
 
