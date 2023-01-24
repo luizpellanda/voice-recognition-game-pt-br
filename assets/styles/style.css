@@ -49,3 +49,14 @@ h3 {
 .secret-number {
     font-weight: bold;
 }
+
+#jogar-novamente {
+    padding: .5rem 1rem;
+    border: 0;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 1.2rem;
+    color: var(--bg-color);
+    cursor: pointer;
+}
+
