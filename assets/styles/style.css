@@ -31,6 +31,7 @@ h2 {
 h3 {
     font-size: 2em;
     margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .mensagem {
@@ -59,7 +60,3 @@ h3 {
     color: var(--bg-color);
     cursor: pointer;
 }
-
-.icon {
-    margin-top: 2rem;
-} 
